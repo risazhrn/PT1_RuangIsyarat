@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.logo {
+
+    border: none ! important;
+    height: 465px;
+    width: 465px;
+    margin-right: 100px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+
+
+}
+
+.form-control {
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    padding: 8px;
+    color: #1B1E32;
+    border: 1px solid #22263E;
+}
+
+label {
+    padding-bottom: 5px;
+    padding-right: 40px;
+}
+
+
+.btn {
+    border-style: none;
+    border-width: 27px;
+    border: 1px solid aliceblue;
+    padding: 10px 60px 10px 60px;
+    border-radius: 20px;
+    background-color: #1B1E32;
+    color: aliceblue;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.img-fluid {
+    background-color: rgb(247, 242, 242);
+}
+
+.loginkanan {
+    background: #fdfdfd;
+
+
+}
+
+html {
+    overflow-x: hidden;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb {}
+
+.logo1 {
+
+    border-radius: 1000px;
+
+
+}
+
+.brand h3 {
+    font-family: 'EB Garamond', serif;
+
+}
+
+.registrasi {
+    width: 500px;
+}
+
+.bg-ungu {
+    background-color: #22263E;
+}
+
+.tulisan {
+    position: absolute;
+    color: white;
+    float: center;
+    margin-left: 21%;
+    margin-right: auto;
+    margin-top: 100px;
+
+}
+
+.back img {
+    width: 450px;
+    height: 450px;
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.back-button {
+    background-color: white;
+}
+
+.login {
+    border: 2px solid #1B1E32;
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 40px 10px 40px;
+    margin-top: 20px;
+    justify-content: center;
+    color: #1B1E32;
+    font-weight: 600;
+}
+
+.or {
+    display: flex;
+    color: #1B1E32;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.or p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.or hr {
+    color: #1B1E32;
+    width: 200px;
+}
+
+h3 {
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'EB Garamond',
+        serif;
+}

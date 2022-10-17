@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.logo {
+    position: absolute;
+    width: 500px;
+    height: 480px;
+    left: 80px;
+    top: 60px;
+
+
+}
+
+.form-control {
+    border-style: none;
+    border-width: 25px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    height: 120%;
+    padding: 13px;
+}
+
+.btn {
+    border-style: none;
+    border-width: 27px;
+    border: 1px solid aliceblue;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    background-color: #1B1E32;
+    color: aliceblue;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.gambar {
+    height: 420px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.loginkanan {
+    background: #1B1E32;
+
+
+}
+
+
+.from-label {
+    background-color: rgb(253, 253, 255);
+}
+
+html {
+    overflow-x: hidden;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb {}
+
+.text {
+    align-items: flex-end;
+}
+
+.logo1 {
+    margin: 20px;
+    border-radius: 1000px;
+
+
+}
+
+.brand h3 {
+    font-family: 'EB Garamond', serif;
+
+}
+
+.w-50 {
+    color: white;
+}
+
+.brand-text {
+    position: absolute;
+    width: 567px;
+    height: 29px;
+    left: 50px;
+    top: 550px;
+}
+
+.brand-text-year {
+    position: absolute;
+    width: 567px;
+    height: 29px;
+    left: 50px;
+    top: 590px;
+}
+
+.regis {
+    border: 2px solid #1B1E32;
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 40px 10px 40px;
+    margin-top: 20px;
+    justify-content: center;
+    color: #1B1E32;
+    font-weight: 600;
+}
+
+.or {
+    display: flex;
+    color: white;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.or p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.or hr {
+    color: white;
+    width: 140px;
+}
+
+a {
+    text-decoration: none;
+    color: #1B1E32;
+}
+
+a:hover {
+    color: #1B1E32;
+}
